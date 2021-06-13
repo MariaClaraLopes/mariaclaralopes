@@ -6,8 +6,6 @@ Seja bem-vinda(o) ao meu perfil do github! :star_struck:
 
 ### :bookmark: Bio 
 
-:sassy_woman: Sou sagitariana, amo viajar e nas horas vagas amo jogar!
-
 Profissionalmente, atualmente tenho desenvolvido alguns aplicativos em Swift para uso pessoal e para fins acadêmicos. Tenho muito brilho nos olhos, determinação e estou sempre buscando ser a melhor versão de mim mesma. Meu propósito é utilizar meu privilégio e conseguir levar voz aos que não conseguem alcançar.
  
 ## :globe_with_meridians: Redes Sociais 
