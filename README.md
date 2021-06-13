@@ -1,9 +1,6 @@
+# Olá :wave:
  
- <img src="Image/MariaClaraLopes.jpeg" width="400" height="400" >  
- 
-# :woman_technologist: Maria Clara Lopes
- 
-## :iphone: Desenvolvedora móbile iOS
+## :woman_technologist: Me chamo Maria Clara,
 
 Seja bem-vinda(o) ao meu perfil do github! :star_struck:
 
@@ -16,6 +13,5 @@ Sou desenvolvedora mobile iOS Júnior, atualmente tenho desenvolvido alguns apli
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuadiass/)](https://www.linkedin.com/in/maria-clara-lopes-6a4554140/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshuadias09@gmail.com)](mailto:mariacllara.lopes@gmail.com)
  
-- :sassy_woman:
-:tipping_hand_woman: Espero que goste ... Que a força esteja com você! :vulcan_salute:
+:sassy_woman: Espero que goste ... Que a força esteja com você! :vulcan_salute:
 
