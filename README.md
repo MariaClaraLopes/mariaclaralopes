@@ -1,16 +1,21 @@
-### Hi there 👋
+ 
+ <img src="Image/MariaClaraLopes.jpeg" width="400" height="400" >  
+ 
+# :woman_technologist: Maria Clara Lopes
+ 
+## :iphone: Desenvolvedora móbile iOS
 
-<!--
-**MariaClaraLopes/mariaclaralopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vinda(o) ao meu perfil do github! :star_struck:
 
-Here are some ideas to get you started:
+### :bookmark: Sobre 
+ 
+Sou desenvolvedora mobile iOS Júnior, atualmente tenho desenvolvido alguns aplicativos em Swift para uso pessoal e para fins acadêmicos. Tenho muito brilho nos olhos, determinação e estou sempre buscando ser a melhor versão de mim mesma. Meu propósito é utilizar meu privilégio e conseguir levar voz aos que não conseguem alcançar. 
+ 
+## :globe_with_meridians: Redes Sociais 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=github.com/joshua-dias)](https://github.com/MariaClaraLopes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuadiass/)](https://www.linkedin.com/in/maria-clara-lopes-6a4554140/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshuadias09@gmail.com)](mailto:mariacllara.lopes@gmail.com)
+ 
+- :sassy_woman:
+:tipping_hand_woman: Espero que goste ... Que a força esteja com você! :vulcan_salute:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
